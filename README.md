@@ -112,11 +112,19 @@ Contributions make this project even better! If you have an idea or find a bug, 
 Thank you for your collaboration!
 
 ---
+---
+
+### 💖 Support the Project
+
+If you find this tool helpful and want to support its continued development, you can buy me a coffee!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=j-c-flstk-dev &theme=radical" alt="GitHub Streak">
+  <a href="https://ko-fi.com/devjc/goal?g=0" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" alt="Buy Me a Coffee at ko-fi.com" width="200" />
+  </a>
 </p>
+
+---
 
 <p align="center">
   <a href="https://github.com/j-c-flstk-dev"><img src="https://img.shields.io/badge/Developed%20with-❤️%20and%20Python-blueviolet?style=flat-square&logo=python&logoColor=white" alt="Made with Python"></a>
