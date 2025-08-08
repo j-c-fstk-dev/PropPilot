@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F4F4F,100:00CED1&height=120&section=header&text=Proposal%20Pilot%20CLI&fontSize=40&animation=fadeIn" alt="Proposal Pilot CLI">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F4F4F,100:00CED1&height=120&section=header&text=Prop%20Pilot%20CLI&fontSize=40&animation=fadeIn" alt="PropPilot CLI">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 📖 About the Project
 
-**Proposal Pilot** is a comprehensive and lightweight Python script designed for freelancers and small agencies seeking a simple yet robust solution to manage their sales pipeline.
+**PropPilot** is a comprehensive and lightweight Python script designed for freelancers and small agencies seeking a simple yet robust solution to manage their sales pipeline.
 
 This project was born from the need to centralize client management, proposals, and communication, eliminating the reliance on complex spreadsheets or expensive software. With an intuitive command-line interface, this script automates repetitive tasks, offers full control over your business data, and lets you focus on what truly matters: closing deals and delivering projects.
 
@@ -31,7 +31,7 @@ This project was born from the need to centralize client management, proposals, 
 
 ### 🚀 Features
 
-Proposal Pilot is equipped with a complete set of tools to optimize your workflow:
+PropPilot is equipped with a complete set of tools to optimize your workflow:
 
 -   **Client and Proposal Management**: Easily manage clients and proposals, linking them within the database.
 -   **Robust Validation**: URL validation for proposals, questionnaires, and contract links, ensuring your information is always correct.
@@ -94,7 +94,7 @@ The script operates through an intuitive, numbered terminal menu. Here is a typi
 
 ### 📂 Project Structure
 
--   `proposal_pilot.py`: The main script containing all functionalities.
+-   `propPilot.py`: The main script containing all functionalities.
 -   `gerenciador_propostas.db`: The SQLite database that stores all your data.
 -   `config.json`: The configuration file for email credentials.
 -   `clients.csv`: The export file for client data.
