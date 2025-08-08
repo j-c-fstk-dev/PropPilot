@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F4F4F,100:00CED1&height=120&section=header&text=Prop%20Pilot%20CLI&fontSize=40&animation=fadeIn" alt="PropPilot CLI">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F4F4F,100:00CED1&height=120&section=header&text=PropPilot%20CLI&fontSize=40&animation=fadeIn" alt="PropPilot CLI">
 </p>
 
 <p align="center">
@@ -54,12 +54,12 @@ PropPilot is equipped with a complete set of tools to optimize your workflow:
 
 The installation process is automated and extremely simple:
 
-1.  **Download the `proposal_pilot.py` file** and save it to a folder of your choice.
+1.  **Download the `propPilot.py` file** and save it to a folder of your choice.
 2.  Open your terminal or command prompt.
 3.  Navigate to the folder where you saved the file.
 4.  **Execute the script** with the command:
     ```bash
-    python proposal_pilot.py
+    python propPilot.py
     ```
 
 > ⚙️ The script will automatically check for and install the necessary libraries (`colorama`, `tabulate`) on the first run.
@@ -115,9 +115,9 @@ Thank you for your collaboration!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=j-c-flstk-dev &theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/Developed%20with-❤️%20and%20Python-blueviolet?style=flat-square&logo=python&logoColor=white" alt="Made with Python"></a>
+  <a href="https://github.com/j-c-flstk-dev"><img src="https://img.shields.io/badge/Developed%20with-❤️%20and%20Python-blueviolet?style=flat-square&logo=python&logoColor=white" alt="Made with Python"></a>
 </p>
